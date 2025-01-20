@@ -19,4 +19,4 @@ I'm learning French to prepare for further studies at the **University of Paris-
 - 🎮 Some of my favorite games are **Hollow Knight** and **Fallout 3**.
 
 ## 📊 My GitHub Stats:
-![Clarisse Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=clarissemaria&show_icons=true&theme=radical)
+![Clarisse Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=MitsukiS16&show_icons=true&theme=radical)
