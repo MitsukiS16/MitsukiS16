@@ -21,7 +21,3 @@ I'm learning French <img loading="lazy" src="https://cdn-icons-png.flaticon.com/
 ## 🎮 Hobbies & Interests:
 - 🥾 I love hiking and capturing nature through photography.
 - 🎮 Some of my favorite games are **Hollow Knight** and **Fallout 3**.
-
-## 📊 My GitHub Stats:
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MitsukiS16&layout=compact&langs_count=7&theme=radical)
-![Clarisse Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=MitsukiS16&show_icons=true&theme=radical)
