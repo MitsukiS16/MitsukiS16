@@ -5,7 +5,6 @@ I'm currently pursuing a **Master in Network and Information Systems Engineering
 ![Cat at computer](https://media.tenor.com/C055651qVfoAAAAM/typing-cat-keyboard-cat.gif)
 
 ## 🌍 What I Do:
-- 💻 **Software Developer** at **Craftable**.
 - 🌟 **OWASP Porto Member**: Actively promoting application security by organizing community events and participating in security-related projects.
 
 ## 🛠️ Tools and Technologies:
