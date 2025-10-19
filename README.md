@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Sissi!
+# 👋 Hello, I'm Sissi!
 
 Computer Science Student | Network & Security Enthusiast | Designer at Heart
 
