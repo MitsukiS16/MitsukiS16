@@ -1,8 +1,8 @@
-# 👋 Hello, I'm Sissi!
+# 👋 Hi there, I'm Sissi!
 
-<img src="https://media.tenor.com/C055651qVfoAAAAM/typing-cat-keyboard-cat.gif" width="200" alt="Typing Cat"/>
+Computer Science Student | Network & Security Enthusiast | Designer at Heart
 
-## 👩‍💻 About Me
+## 👩‍🎓 About Me
 
 - I'm in the 4th year of the **B.Sc + M.Sc degree in Computer Science** at the **University of Porto**.  
 - Currently, I’m spending a semester abroad at the <img src="https://cdn-icons-png.flaticon.com/512/3187/3187465.png" width="15" height="15"/> **University of Paris-Saclay** through the **Erasmus+ Europe** program.
