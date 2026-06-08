@@ -1,46 +1,54 @@
-# 👋 Hello, I'm Sissi!
+# 👋 Hi, I'm Sissi
 
-Computer Science Student | Network & Security Enthusiast | Designer at Heart
+💻 Computer Science Student • 🔬 Researcher • 📷 Nature Photographer
 
 ## 👩‍🎓 About Me
 
-- I'm in the 4th year of the **B.Sc + M.Sc degree in Computer Science** at the **University of Porto**.  
-- My main academic focus areas are **Network Systems**, **Machine Learning**, and **Cybersecurity**.
+I'm currently pursuing an [Integrated Master's degree in Computer Science at the University of Porto](https://sigarra.up.pt/fcup/en/CUR_GERAL.CUR_VIEW?pv_ano_lectivo=2021&pv_curso_id=23181).
 
-## 🚀 What I’m Working On
+My main interests include:
 
-- I am actively seeking employment in order to become financially independent.
-- I am creating a technical portfolio that focuses on projects related to my desired area of work.
+* 🛠️ Networks & System Administration
+* 🔐 Cybersecurity
+* 🤖 Machine Learning
 
-## 🌱 What I’m Learning
+I enjoy understanding how systems work and exploring their limits in controlled environments.
 
-- Languages I’m proficient in: 🇵🇹 **Portuguese**, 🇺🇸 **English**  
-- Languages I’m comfortable with: 🇫🇷 **French**, 🇪🇸 **Spanish**  
-- Languages I’m currently learning: 🇯🇵 **Japanese**
+## 🚀 Current Focus
 
-## 💪 Volunteer Work
+* Maintaining strong academic performance while preparing for future PhD opportunities
+* Working as a Researcher at [INESC TEC's BRAINs unit](https://brain.inesctec.pt/)
+* Building impactful projects in cybersecurity and healthcare
 
-- **OWASP Member** – Actively promoting **application security** by:
-  - Organizing **community events**  
-  - Participating in **security-related projects** and workshops  
+## 📚 Research
 
-## 🛠️ Tools & Technologies
+### 🧠 BRAINage
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://miro.medium.com/v2/resize:fit:280/1*NRgojJ9tSeFuPPTkEWRDPA.png" width="40" height="40" alt="Ansible"/>
-  <img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" width="40" height="40" alt="Wireshark"/>
-  <img src="https://dashboard.snapcraft.io/site_media/appmedia/2024/08/com.openwall.John.png" width="40" height="40" alt="John the Ripper"/>
-</p>
+Research focused on using Large Language Models and Electronic Health Records to identify clinically relevant information, including Mild Cognitive Impairment (MCI).
 
-## 🎮 Hobbies & Interests
+## 🏆 Projects I'm Proud Of
 
-- I teach **math and physics** to high school students every year. 
-- In my free time, I enjoy **hiking** and **photographing nature**.  
-- Some of my favorite games are: *Hollow Knight*, *Ori and the Blind Forest*, *Fallout 3*, and *Borderlands 2*.
+### 🐦 RingNet
 
+A platform for real-time bird-ringing data collection, validation, and analysis to support researchers and conservation efforts.
+
+### ⛓️ Public Ledger for Auctions
+
+A decentralized auction platform built on a Kademlia DHT overlay and a Proof-of-Work blockchain.
+
+## 🌱 Currently Learning
+
+* 🇯🇵 Japanese
+* Advanced Network Security
+* AI for Healthcare
+
+## ❤️ Interests
+
+* 💻 Python, JavaScript, C#
+* 🐧 Arch Linux, Git, Wireshark
+* 🌐 Cybersecurity, Healthcare Technology, Web Development
+* 🍣 Sushi and Lasagna
+* 🎮 Hollow Knight, Ori and the Blind Forest, Risk of Rain 2, Fallout 3, Borderlands 2
+* 📷 Photographing birds, forests, and landscapes
+* 📚 Teaching mathematics and physics
+* 🤝 Participating in OWASP community activities and security events
