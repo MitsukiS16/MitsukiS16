@@ -36,12 +36,6 @@ A platform for real-time bird-ringing data collection, validation, and analysis 
 
 A decentralized auction platform built on a Kademlia DHT overlay and a Proof-of-Work blockchain.
 
-## 🌱 Currently Learning
-
-* 🇯🇵 Japanese
-* Advanced Network Security
-* AI for Healthcare
-
 ## ❤️ Interests
 
 * 💻 Python, JavaScript, C#
